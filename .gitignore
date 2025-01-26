@@ -16,4 +16,4 @@ phpunit.xml.dist
 *.swp
 .DS_Store
 Thumbs.db
-uniboard_db
+/uniboard_db
